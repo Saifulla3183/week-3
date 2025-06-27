@@ -1,0 +1,6 @@
+Artificial Intelligence, or AI, refers to the simulation of human intelligence in machines that are
+programmed to think like humans and mimic their actions. The term may also be applied to
+any machine that exhibits traits associated with a human mind such as learning and
+problem-solving. AI is continuously evolving to benefit many different industries. Machines
+are wired using a cross-disciplinary approach based on mathematics, computer science,
+linguistics, psychology, and more.
